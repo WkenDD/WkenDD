@@ -88,6 +88,6 @@ We're a platform dedicated to providing top-tier server hosting services.
 
 <img src="https://i.imgur.com/qtoVGFs.png" alt="Logo" width="200"/>
 
-*© 2024 WkenD- Sanku Studio. Building the future of creative technology.*
+*© 2024 WkenD- Sanku Studio. Emerge. Evolve. Excel.*
 
 </div>
