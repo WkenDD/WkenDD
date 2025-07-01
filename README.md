@@ -27,11 +27,6 @@ I'm a **Creative Frontend Developer** and **Visual Content Creator** passionate 
 
 develop cutting-edge solutions and manage various technology projects.
 
-### 🌟 **Extremes.id**
-> *Pushing boundaries in digital excellence*
-
-We're a platform dedicated to providing top-tier server hosting services.
-
 ---
 
 ## 🛠️ Tech Stack & Creative Tools
