@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Creative+Frontend+Developer;Video+%26+Photography+Expert;Sanku+Studio+Founder;Technology+Enthusiast;Hosting+Server+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Creative+Frontend+Developer;Video+%26+Photography+Expert;Sanku+Studio+Founder;Technology+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +25,7 @@ I'm a **Creative Frontend Developer** and **Visual Content Creator** passionate 
 ### 🎪 **Sanku Studio**
 > *Innovation meets execution*
 
-develop cutting-edge solutions and manage various technology projects.
+develop cutting edge solutions and manage various technology projects.
 
 ---
 
@@ -83,6 +83,6 @@ develop cutting-edge solutions and manage various technology projects.
 
 <img src="https://i.imgur.com/qtoVGFs.png" alt="Logo" width="200"/>
 
-*© 2024 WkenD- Sanku Studio. Emerge. Evolve. Excel.*
+*© 2024 WkenD Sanku Studio. Emerge. Evolve. Excel.*
 
 </div>
